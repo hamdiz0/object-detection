@@ -1,0 +1,9 @@
+# Dataset configuration
+path: /win/Hamdi/ml/model/Dataset  # dataset root directory
+train: train/images  # train images (relative to 'path')
+val: train/images
+# Classes
+names:
+  0: person
+
+nc: 1

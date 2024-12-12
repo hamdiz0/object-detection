@@ -1,0 +1,10 @@
+ 
+# Dataset configuration
+path: /win/Hamdi/ml/model/Dataset  # dataset root directory
+test: test/images  # validation images (relative to 'path')
+
+# Classes
+names:
+  0: person
+  
+nc: 1
