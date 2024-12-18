@@ -1,5 +1,5 @@
 # Dataset configuration
-path: /win/Hamdi/ml/model/Dataset  # dataset root directory
+path: /win/Hamdi/ml/model/Dataset  # dataset root directory (absolute path)
 train: train/images  # train images (relative to 'path')
 val: train/images
 # Classes
